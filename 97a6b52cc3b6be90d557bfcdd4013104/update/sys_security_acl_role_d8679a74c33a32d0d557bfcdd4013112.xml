@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-30 04:50:38</sys_created_on>
+        <sys_id>d8679a74c33a32d0d557bfcdd4013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1896831_ipipip_ipaddressinfo.x_1896831_ipipip.user</sys_name>
+        <sys_package display_value="ipipip" source="x_1896831_ipipip">97a6b52cc3b6be90d557bfcdd4013104</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ipipip">97a6b52cc3b6be90d557bfcdd4013104</sys_scope>
+        <sys_security_acl display_value="x_1896831_ipipip_ipaddressinfo">90675a74c33a32d0d557bfcdd40131f1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d8679a74c33a32d0d557bfcdd4013112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-30 04:50:38</sys_updated_on>
+        <sys_user_role display_value="x_1896831_ipipip.user" name="x_1896831_ipipip.user">a7a6b52cc3b6be90d557bfcdd4013146</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
